@@ -1,2 +1,2 @@
 # nodeTypeScript
-API REST desenvolvida com node e TypeScript
+API REST desenvolvida com node e TypeScript, sequelize
